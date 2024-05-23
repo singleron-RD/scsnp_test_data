@@ -1,0 +1,3 @@
+*.sh
+tmp/
+npm1.csv

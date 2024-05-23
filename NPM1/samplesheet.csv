@@ -1,0 +1,4 @@
+sample,fastq_1,fastq_2,match_barcode
+X,https://github.com/singleron-RD/scsnp_test_data/raw/master/NPM1/prefixX_001_R1.fq.gz,https://github.com/singleron-RD/scsnp_test_data/raw/master/NPM1/prefixX_001_R2.fq.gz,https://github.com/singleron-RD/scsnp_test_data/raw/master/NPM1/match_barcode/X.matrix/barcodes.tsv.gz
+X,https://github.com/singleron-RD/scsnp_test_data/raw/master/NPM1/prefixX_002_R1.fq.gz,https://github.com/singleron-RD/scsnp_test_data/raw/master/NPM1/prefixX_002_R2.fq.gz,https://github.com/singleron-RD/scsnp_test_data/raw/master/NPM1/match_barcode/X.matrix/barcodes.tsv.gz
+Y,https://github.com/singleron-RD/scsnp_test_data/raw/master/NPM1/prefixY_001_R1.fq.gz,https://github.com/singleron-RD/scsnp_test_data/raw/master/NPM1/prefixY_001_R2.fq.gz,https://github.com/singleron-RD/scsnp_test_data/raw/master/NPM1/match_barcode/Y.matrix/barcodes.tsv.gz
